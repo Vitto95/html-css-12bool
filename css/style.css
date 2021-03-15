@@ -1,0 +1,9 @@
+/* Layout columns */
+
+[class*="col-"] {
+  background-color: #fec0cb;
+  height: 130px;
+  border: 1px solid black;
+}
+
+/* /Layout columns */
